@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: snow;
+    text-align: center;
+}
+
+.menor{
+    color: rgb(255, 0, 0);
+}
+
+.mayor{
+    color: rgb(0, 155, 34);
+}
+
+button{
+    margin: 0px 0.5rem;
+}
